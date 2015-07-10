@@ -1,0 +1,29 @@
+.content {
+	font-family: sans-serif;
+	width: 90%;
+	margin: 1em auto;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	font-size: 3em;
+}
+
+#query {
+	width: 50%;
+}
+
+button {
+	margin-top: 1em;
+}
+
+.thumbnails {
+	display: none;
+}
+
+img {
+	margin: 1em;
+	width: 120px;
+	height: 90px;
+}
